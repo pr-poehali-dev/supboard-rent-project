@@ -155,7 +155,7 @@ const Index = () => {
             className="font-display text-xl font-light tracking-widest text-foreground uppercase"
           >
             SUP<span className="text-ocean font-medium">ПРОКАТ</span>
-            <span className="text-muted-foreground font-light"> & КАЯКЕЙ</span>
+            <span className="text-muted-foreground font-light"> КАЯКЕЙ</span>
           </button>
           <div className="hidden md:flex items-center gap-8">
             {[
@@ -563,7 +563,7 @@ const Index = () => {
         <div className="max-w-6xl mx-auto px-6 flex flex-col md:flex-row items-center justify-between gap-4">
           <span className="font-display text-lg font-light tracking-widest text-white uppercase">
             SUP<span className="text-sand">ПРОКАТ</span>
-            <span className="text-white/50 font-light"> & КАЯКЕЙ</span>
+            <span className="text-white/50 font-light"> КАЯКЕЙ</span>
           </span>
           <p className="font-body text-xs text-white/40 text-center">
             © 2024 SUP Прокат. Аренда сапбордов. Работаем с мая по октябрь.
